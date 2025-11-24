@@ -25,7 +25,7 @@ class AhmedMashtah {
     "Firebase Auth & Firestore & Hosting",
     "Dart Animations",
     "Python, Java,",
-    "GitHub & Copilot",
+    "GitHub",
     "Simplifying Code"
   ];
 }
